@@ -1,0 +1,40 @@
+riemo2@localhost
+comm-app:~$ git --version
+git version 1.9.1
+iriemo2@localhost
+comm-app:~$ cd /var/www
+iriemo2@localhost
+comm-app:/var/www$ git init project1
+Initialized empty Git repository in /var/www/project1/.git/
+iriemo2@localhost
+comm-app:/var/www$ cd project1/
+iriemo2@localhost
+comm-app:/var/www/project1$ ls
+iriemo2@localhost
+comm-app:/var/www/project1$ ls
+iriemo2@localhost
+comm-app:/var/www/project1$ ls -al
+total 12
+drwxrwxr-x  3 iriemo2 iriemo2  4096 Dec  5 13:30 .
+drwxrwxrwx 23 root    www-data 4096 Dec  5 13:30 ..
+drwxrwxr-x  7 iriemo2 iriemo2  4096 Dec  5 13:30 .git
+iriemo2@localhost
+comm-app:/var/www/project1$ git status
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+iriemo2@localhost
+comm-app:/var/www/project1$ gedit first.txt
+
+
+
+
+
+
+
+
+
+
+
